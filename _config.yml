@@ -2,3 +2,6 @@ collections:
   email:
     output: true
     permalink: /email/:year/:month/:day/:path/
+  web:
+    output: true
+    permalink: /web/:year/:month/:day/:path/
