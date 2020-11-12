@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 permalink: test
+title: Citation of your b-money page
 ---
 
 ```
