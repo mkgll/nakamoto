@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: email
 permalink: test
 title: Citation of your b-money page
 ---
