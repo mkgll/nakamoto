@@ -1,0 +1,4 @@
+collections:
+  email:
+    output: true
+    permalink: /email/:year/:month/:day/:path/
